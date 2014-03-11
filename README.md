@@ -1,7 +1,7 @@
 subsonic_ynh
 ============
 
-Subsonic for Yunohost (http://www.subsonic.org/pages/index.jsp and https://doc.yunohost.org/#/index)
+Subsonic for Yunohost (see http://www.subsonic.org/pages/index.jsp and https://doc.yunohost.org/#/index)
 
 Refer to https://doc.yunohost.org/app_subsonic
 
