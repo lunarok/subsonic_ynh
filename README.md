@@ -1,5 +1,6 @@
 subsonic_ynh
 ============
+
 ***Be aware that this app for now only configure a reverse proxy to access your Subsonic installation.***
 
   Yunohost App to add Subsonic (a web frontend for streaming media files)
